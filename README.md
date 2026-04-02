@@ -33,3 +33,6 @@ Primary: Antimicrobial Resistance Dataset (Mendeley, DOI: 10.17632/ccmrx8n7mk.1)
 ✅ Location Influence Analysis 
 ✅ Resistance Pattern Network visualization  
 ✅ Decision-support tool suggesting antibiotics
+
+## 🚀 Live Demo
+👉 https://backtisense.streamlit.app
